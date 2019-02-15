@@ -10,7 +10,7 @@ now that the above error is gone it threw me this error, "Exception in thread "m
 
 
 
-but otherwise it worked with the default inout that he made.
+but otherwise it worked with the default input that he made.
 
 my code should work (aside from recursive) but im not sure why it kept throwing me that nullpointer error,
 which made no sense to me because there was no null value.
